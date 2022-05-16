@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielswift10
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with anyone in the web development field
 - 📫 How to reach me ojeyomi.daniel@gmail.com
 
