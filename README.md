@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Believer+;Frontend+Developer;HNGi9+Finalist;Cascading+Stylist;Data+Enthusaiast;Fast+Typist;Part-Time+Gamer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=50&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Believer+;Frontend+Developer;HNGi9+Finalist;Cascading+Stylist;Data+Enthusaiast;Fast+Typist;Part-Time+Gamer;)](https://git.io/typing-svg)
 
 Yo! 👋 I'm Daniel (Swift) Ojeyomi, a meticulous frontend developer with passion for responsive website design and a firm believer in mobile-first approach. I love to create innovative solutions to real-life problems by creating beautiful and performant products with delightful user experiences. I am proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React JS, while learning all of these languages, I have been able to exercise my skills by carrying out projects which they all received great feedbacks. I have also worked with various UI/UX designers in order to implement user-friendly designs.
 
@@ -6,28 +6,50 @@ I possess good communication, analytical and strong Organizational and Team coll
 
 I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
 
-### 👨‍💻 Skills
-    💬 HTML5 
-    💬 CSS3
-    💬 Bootstrap CSS
-    💬 Tailwind CSS
-    💬 JavaScript
-    💬 React 
-    💬 Python
 
-<!-- Social icons section -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/daniel-ojeyomi)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/swift_fingers_)
-[<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/danielswift10/danielswift10)
+#### Connect with me 
+<a href="https://www.linkedin.com/in/daniel-ojeyomi/"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://twitter.com/swift_fingers_"><img src="images/twitter.png" width="60" /></a>
+<a href="https://www.instagram.com/danie_swift/"><img src="images/ig.png" width="70" /></a>
 
-- 🌱 I’m currently learning
+<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+[<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="danielswift10" />](https://github.com/danielswift10/danielswift10)
+
+#### About
+
+- 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **ojeyomi.daniel@gmail.com**
 - ⚡ Fun fact: Fast typist hence the name **Swift ⚡**
+
+### 👨‍💻 Skills
+#### My Core Languages
+<code><img src="images/html.jpg" width="60" title="HTML" /></code>
+<code><img src="images/css.jpg" width="60" title="CSS" /></code>
+<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
+<code><img src="images/python.png" width="60" title="Python" /></code>
+
+
+#### Frameworks/Libraries I Use
+<code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
+<code><img src="images/B.png" width="70" title="Bootstrap" /></code>
+<code><img src="images/react.png" width="80" title="React" /></code>
+
+
+#### Tools I Use
+<code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
+<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
+<code><img src="images/git.jpg" width="60" title="Git" /></code>
+<!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
+<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
+<code><img src="images/R.png" width="50" title="NodeJS" /></code>
+<code><img src="images/postman.png" width="60" title="Postman API" /></code>
+
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielswift10&theme=cobalt)](https://git.io/streak-stats)
 <br>
  
- ✌!! <br>
+ Let's connect!✌!! <br>
  
