@@ -14,14 +14,14 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 
 [<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="danielswift10" />](https://github.com/danielswift10/danielswift10)
 
-#### About
+## About
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **ojeyomi.daniel@gmail.com**
 - ⚡ Fun fact: Fast typist hence the name **Swift ⚡**
 
-### 👨‍💻 Skills
+## 👨‍💻 Skills
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
