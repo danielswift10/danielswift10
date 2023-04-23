@@ -1,6 +1,10 @@
+
+# Yo! 👋, I'm Daniel(Swift) Ojeyomi
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=50&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Believer+;Frontend+Developer;HNGi9+Finalist;Cascading+Stylist;Data+Enthusaiast;Fast+Typist;Part-Time+Gamer;)](https://git.io/typing-svg)
 
-Yo! 👋 I'm Daniel (Swift) Ojeyomi, a meticulous frontend developer with passion for responsive website design and a firm believer in mobile-first approach. I love to create innovative solutions to real-life problems by creating beautiful and performant products with delightful user experiences. I am proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React JS, while learning all of these languages, I have been able to exercise my skills by carrying out projects which they all received great feedbacks. I have also worked with various UI/UX designers in order to implement user-friendly designs.
+
+A meticulous frontend developer with passion for responsive website design and a firm believer in mobile-first approach. I love to create innovative solutions to real-life problems by creating beautiful and performant products with delightful user experiences. I am proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React JS, while learning all of these languages, I have been able to exercise my skills by carrying out projects which they all received great feedbacks. I have also worked with various UI/UX designers in order to implement user-friendly designs.
 
 I possess good communication, analytical and strong Organizational and Team collaboration skills geared towards innovation and problem-solving.
 
@@ -45,7 +49,7 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 
 
-## 🔥 Streak stats
+# 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielswift10&theme=cobalt)](https://git.io/streak-stats)
 <br>
  
