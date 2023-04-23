@@ -18,7 +18,7 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <!-- Social icons section -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/daniel-ojeyomi)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/swift_fingers_)
-[<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/danielswift10/danielswift10)
+[<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/danielswift10/danielswift10)
 
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on any open source projects
