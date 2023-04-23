@@ -20,9 +20,9 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 
 
 
-# About
+# About Me
 
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Frontend Development (React JS)
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **ojeyomi.daniel@gmail.com**
 - ⚡ Fun fact: Fast typist hence the name **Swift ⚡**
