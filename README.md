@@ -17,13 +17,17 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <a href="https://www.instagram.com/danie_swift/"><img src="images/ig.png" width="70" /></a>
 
 [<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="danielswift10" />](https://github.com/danielswift10/danielswift10)
-<br/>
+
+
+
 # About
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **ojeyomi.daniel@gmail.com**
 - ⚡ Fun fact: Fast typist hence the name **Swift ⚡**
+
+
 
 # 👨‍💻 Skills
 ## My Core Languages
@@ -49,7 +53,8 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 
 
-# 🔥 Streak stats
+
+# Streak stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielswift10&theme=cobalt)](https://git.io/streak-stats)
 <br>
  
