@@ -17,7 +17,7 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <a href="https://www.instagram.com/danie_swift/"><img src="images/ig.png" width="70" /></a>
 
 [<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="danielswift10" />](https://github.com/danielswift10/danielswift10)
-
+<br/>
 # About
 
 - 🌱 I’m currently learning Frontend Development
