@@ -54,8 +54,8 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 
 
 
-# Streak stats 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielswift10&theme=cobalt)](https://git.io/streak-stats)
+<!-- # Streak stats 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielswift10&theme=cobalt)](https://git.io/streak-stats) -->
 <br>
  
  Let's connect!✌!! <br>
