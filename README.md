@@ -33,7 +33,7 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 ## My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/javascript.png" width="80" title="JavaScript" /></code>
+<code><img src="images/javascript.png" width="65" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="80" title="TypeScript" /></code>
 
 
