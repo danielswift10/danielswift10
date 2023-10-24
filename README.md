@@ -11,7 +11,7 @@ I possess good communication, analytical and strong Organizational and Team coll
 I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
 
 
-# Connect with me 
+# Let's connect
 <a href="https://www.linkedin.com/in/daniel-ojeyomi/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/swift_fingers_"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.instagram.com/danie_swift/"><img src="images/ig.png" width="70" /></a>
@@ -22,7 +22,7 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 
 # About Me
 
-- 🌱 I’m currently learning Frontend Development (React JS)
+- 🌱 I’m currently learning Frontend Development (NextJS)
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **ojeyomi.daniel@gmail.com**
 - ⚡ Fun fact: Fast typist hence the name **Swift ⚡**
@@ -34,16 +34,16 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
-<code><img src="images/python.png" width="60" title="Python" /></code>
+<code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 
 
-## Frameworks/Libraries I Use
+## Frameworks/Libraries
 <code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/react.png" width="80" title="React" /></code>
 
 
-## Tools I Use
+## Tools
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
 <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
