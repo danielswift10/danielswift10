@@ -38,10 +38,10 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 
 
 ## Frameworks/Libraries
-<code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
-<code><img src="images/B.png" width="70" title="Bootstrap" /></code>
+<code><img src="images/tailwind.png" width="80" title="Tailwind" /></code>
+<code><img src="images/B.png" width="80" title="Bootstrap" /></code>
 <code><img src="images/react.png" width="80" title="React" /></code>
-<code><img src="images/redux.png" width="80" title="Redux" /></code>
+<code><img src="images/redux.png" width="90"  title="Redux" /></code>
 
 
 ## Tools
