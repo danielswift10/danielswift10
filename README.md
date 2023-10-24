@@ -33,14 +33,15 @@ I'm always excited to learn and grow, and I'm eager to tackle new challenges and
 ## My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
-<code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
+<code><img src="images/javascript.png" width="80" title="JavaScript" /></code>
+<code><img src="images/typescript.png" width="80" title="TypeScript" /></code>
 
 
 ## Frameworks/Libraries
 <code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/react.png" width="80" title="React" /></code>
+<code><img src="images/redux.png" width="80" title="Redux" /></code>
 
 
 ## Tools
