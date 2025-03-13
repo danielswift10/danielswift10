@@ -4,17 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=50&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=A+Believer+;A+Frontend+Developer;An+HNGi9+Finalist;A+Cascading+Stylist;A+Data+Enthusaiast;A+Fast+Typist;A+Part-Time+Gamer;)](https://git.io/typing-svg)
 
 
-A meticulous frontend developer with passion for responsive website design and a firm believer in mobile-first approach. I love to create innovative solutions to real-life problems by creating beautiful and performant products with delightful user experiences. I am proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React JS, while learning all of these languages, I have been able to exercise my skills by carrying out projects which they all received great feedbacks. I have also worked with various UI/UX designers in order to implement user-friendly designs.
+I'm an innovative and results-driven Frontend Engineer with a passion for building scalable, high-performance digital solutions. I blend a solid technical foundation—proficient in HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, and React Query—with a deep commitment to creating user-centric experiences.
 
-I possess good communication, analytical and strong Organizational and Team collaboration skills geared towards innovation and problem-solving.
+My approach goes beyond simply transforming designs into code. I collaborate closely with UI/UX Designers and Backend Engineers to craft intuitive, accessible, and mobile-first web applications that not only meet aesthetic and functional standards but also drive business growth. I pride myself on my ability to deliver impactful solutions quickly, consistently exceeding expectations and meeting tight deadlines.
 
-I'm always excited to learn and grow, and I'm eager to tackle new challenges and make an impact in the tech industry.
-
+Whether it's integrating complex APIs or optimizing user interactions, I focus on turning challenges into opportunities and ideas into transformative digital experiences.
 
 # Let's connect
 <a href="https://www.linkedin.com/in/daniel-ojeyomi/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/swift_fingers_"><img src="images/x.png" width="60" /></a>
-<a href="https://www.instagram.com/danie_swift/"><img src="images/ig.png" width="70" /></a>
+<a href="https://x.com/swift_fingers_"><img src="images/x.png" width="60" /></a>
 
 [<img src="https://komarev.com/ghpvc/?username=danielswift10&label=Profile%20views&color=0e75b6&style=flat" alt="danielswift10" />](https://github.com/danielswift10/danielswift10)
 
