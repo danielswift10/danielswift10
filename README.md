@@ -1,7 +1,7 @@
 
 # Yo! 👋, I'm Daniel(Swift) Ojeyomi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=50&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=A+Believer+;A+Frontend+Developer;An+HNGi9+Finalist;A+Cascading+Stylist;A+Data+Enthusaiast;A+Fast+Typist;A+Part-Time+Gamer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=50&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=A+Believer+;A+Frontend+Developer;An+HNGi9+Finalist;A+Cascading+Stylist;A+Data+Enthusaiast;A+Professional+Fast+Typist;A+Part-Time+Gamer;)](https://git.io/typing-svg)
 
 
 I'm an innovative and results-driven Frontend Engineer with a passion for building scalable, high-performance digital solutions. I blend a solid technical foundation—proficient in HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, and React Query—with a deep commitment to creating user-centric experiences.
